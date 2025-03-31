@@ -1,0 +1,122 @@
+[
+    {
+        "disease": {
+            "name": "Diabetes",
+            "description": "A chronic condition that occurs when the body cannot effectively process food for use as energy.",
+            "symptoms": ["Increased thirst", "Frequent urination", "Extreme fatigue", "Blurred vision"],
+            "treatments": ["Insulin therapy", "Dietary changes", "Exercise", "Blood sugar monitoring"],
+            "links": [
+                "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+                "https://www.cdc.gov/diabetes/basics/diabetes.html",
+                "https://www.mayoclinic.org/diseases-conditions/diabetes/symptoms-causes/syc-20371444",
+                "https://www.diabetes.org/",
+                "https://www.niddk.nih.gov/health-information/diabetes"
+            ]
+        }
+    },
+    {
+        "disease": {
+            "name": "Hypertension",
+            "description": "A condition in which the force of the blood against the artery walls is too high.",
+            "symptoms": ["Headaches", "Shortness of breath", "Nosebleeds"],
+            "treatments": ["Lifestyle changes", "Medications", "Regular monitoring"],
+            "links": [
+                "https://www.who.int/news-room/fact-sheets/detail/hypertension",
+                "https://www.cdc.gov/bloodpressure/index.htm",
+                "https://www.heart.org/en/health-topics/high-blood-pressure",
+                "https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410",
+                "https://www.nhlbi.nih.gov/health-topics/high-blood-pressure"
+            ]
+        }
+    },
+    {
+        "disease": {
+            "name": "Asthma",
+            "description": "A condition in which your airways narrow and swell and may produce extra mucus.",
+            "symptoms": ["Shortness of breath", "Chest tightness", "Wheezing", "Coughing"],
+            "treatments": ["Inhalers", "Avoiding triggers", "Medication"],
+            "links": [
+                "https://www.who.int/news-room/fact-sheets/detail/asthma",
+                "https://www.cdc.gov/asthma/default.htm",
+                "https://www.mayoclinic.org/diseases-conditions/asthma/symptoms-causes/syc-20369653",
+                "https://www.lung.org/lung-health-diseases/lung-disease-lookup/asthma",
+                "https://www.nhlbi.nih.gov/health-topics/asthma"
+            ]
+        }
+    },
+    {
+        "disease": {
+            "name": "COVID-19",
+            "description": "A contagious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).",
+            "symptoms": ["Fever", "Cough", "Shortness of breath", "Loss of taste or smell"],
+            "treatments": ["Vaccination", "Antiviral medications", "Supportive care"],
+            "links": [
+                "https://www.who.int/emergencies/diseases/novel-coronavirus-2019",
+                "https://www.cdc.gov/coronavirus/2019-ncov/index.html",
+                "https://www.mayoclinic.org/coronavirus-covid-19",
+                "https://www.nih.gov/coronavirus",
+                "https://www.unicef.org/coronavirus/covid-19"
+            ]
+        }
+    },
+    {
+        "disease": {
+            "name": "Cancer",
+            "description": "A group of diseases involving abnormal cell growth with the potential to invade or spread to other parts of the body.",
+            "symptoms": ["Unexplained weight loss", "Fatigue", "Lumps or swelling", "Persistent pain"],
+            "treatments": ["Surgery", "Chemotherapy", "Radiation therapy", "Immunotherapy"],
+            "links": [
+                "https://www.who.int/news-room/fact-sheets/detail/cancer",
+                "https://www.cancer.org/",
+                "https://www.cdc.gov/cancer/index.htm",
+                "https://www.mayoclinic.org/diseases-conditions/cancer/symptoms-causes/syc-20370588",
+                "https://www.cancer.gov/"
+            ]
+        }
+    },
+    {
+        "disease": {
+            "name": "Tuberculosis",
+            "description": "A potentially serious infectious disease that mainly affects the lungs.",
+            "symptoms": ["Coughing that lasts three or more weeks", "Coughing up blood", "Chest pain", "Fatigue"],
+            "treatments": ["Antibiotics", "Directly observed therapy (DOT)", "Vaccination"],
+            "links": [
+                "https://www.who.int/news-room/fact-sheets/detail/tuberculosis",
+                "https://www.cdc.gov/tb/default.htm",
+                "https://www.mayoclinic.org/diseases-conditions/tuberculosis/symptoms-causes/syc-20351250",
+                "https://www.lung.org/lung-health-diseases/lung-disease-lookup/tuberculosis",
+                "https://www.nhs.uk/conditions/tuberculosis-tb/"
+            ]
+        }
+    },
+    {
+        "disease": {
+            "name": "HIV/AIDS",
+            "description": "A chronic, potentially life-threatening condition caused by the human immunodeficiency virus (HIV).",
+            "symptoms": ["Fever", "Swollen lymph nodes", "Weight loss", "Night sweats"],
+            "treatments": ["Antiretroviral therapy (ART)", "Preventive measures", "Supportive care"],
+            "links": [
+                "https://www.who.int/news-room/fact-sheets/detail/hiv-aids",
+                "https://www.cdc.gov/hiv/default.html",
+                "https://www.avert.org/",
+                "https://www.unaids.org/en",
+                "https://www.mayoclinic.org/diseases-conditions/hiv-aids/symptoms-causes/syc-20373524"
+            ]
+        }
+    },
+    {
+        "disease": {
+            "name": "Malaria",
+            "description": "A life-threatening disease caused by parasites that are transmitted to people through the bites of infected female Anopheles mosquitoes.",
+            "symptoms": ["Fever", "Chills", "Headache", "Nausea and vomiting"],
+            "treatments": ["Antimalarial drugs", "Preventive measures", "Supportive care"],
+            "links": [
+                "https://www.who.int/news-room/fact-sheets/detail/malaria",
+                "https://www.cdc.gov/malaria/",
+                "https://www.mayoclinic.org/diseases-conditions/malaria/symptoms-causes/syc-20351184",
+                "https://www.nhs.uk/conditions/malaria/",
+                "https://www.malaria.org/"
+            ]
+        }
+    }
+]
