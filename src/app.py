@@ -141,3 +141,5 @@ if query:
             st.write("---")  # Separator
     else:
         st.warning("❌ No results found for your query.")
+
+        ploting the distribution is not fancy and not suit th
